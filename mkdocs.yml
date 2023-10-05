@@ -3,3 +3,6 @@ site_author: Dario silva
 
 theme: material
 language: pt
+
+site_dir: /var/www/html 
+
