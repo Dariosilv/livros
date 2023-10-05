@@ -1,8 +1,8 @@
-site_name: Livros
+site_name: Livros 
 site_author: Dario silva
+site_dir: /var/www/html
+theme: 
+  name: material
+  language: pt
 
-theme: material
-language: pt
-
-site_dir: /var/www/html 
 
